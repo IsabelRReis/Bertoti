@@ -11,11 +11,9 @@ programming."
 
 Titus Winters, Software Engineering at Google
 
-Comentário : Com base no texto foi possivel compreender o que muitas vezes seria descrito como apenas nuâncias de mesmos conceitos. A programação está na engenharia de 
-software, porém como um dos pilares que a compõem. Tendo todos esses fatores em mente, a engenharia de software é em comparação mais complexa e completa, levando em conta 
-fatores de grande importância no desenvolvimento como o tempo e a acertividade das aplicações desenvolvidas em ambinetes muitas vezes mutáveis.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-O que é trade-off: Situação em que há conflito de escolha que visa à resolução de problema mas acarreta outro, obrigando uma escolha.
+<h4>Comentário:</h4> Com base no texto foi possivel compreender o que muitas vezes seria descrito como apenas nuâncias de mesmos conceitos. A programação está na engenharia de software, porém como um dos pilares que a compõem. Tendo todos esses fatores em mente, a engenharia de software é em comparação mais complexa e completa, levando em conta fatores de grande importância no desenvolvimento como o tempo e a acertividade das aplicações desenvolvidas em ambinetes muitas vezes mutáveis.
+
+<h4>O que é trade-off:</h4> Situação em que há conflito de escolha que visa à resolução de problema mas acarreta outro, obrigando uma escolha.
 
 
                                                                     Trade-off dentro do API
