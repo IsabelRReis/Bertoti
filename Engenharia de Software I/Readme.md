@@ -21,8 +21,7 @@ Titus Winters, Software Engineering at Google
 
 <h2> Ciclo de Vida do Desenvolvimento de Software </h2>
 
-<h4> Situação: </h4> Uma loja de roupas necessita de uma aplicação que cadastre seus clientes, busque-os por Código de Protocolo, pelas características de suas roupas e por 
-fim compare entre as roupas determinadas.
+<h4> Situação: </h4> Uma loja de roupas necessita de uma aplicação que cadastre seus clientes, busque-os por Código de Protocolo, pelas características de suas roupas e por fim Compare Entre as Roupas determinadas.
  
 <h4> Requisitos Funcionais: </h4>
 
