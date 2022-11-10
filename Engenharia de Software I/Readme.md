@@ -25,7 +25,7 @@ Titus Winters, Software Engineering at Google
  
 <h4> Requisitos Funcionais: </h4>
 
-- Cadastramento de Clientes: Parte em que se cadastra o cliente, passando seus dados, como Nome, Código de Protocolo e Roupas;
+- Cadastramento de Clientes: Parte em que se possa cadastrar o cliente, passando seus dados, como Nome, Código de Protocolo e Roupas;
 - Roupas: Passar os dados para armazenar as roupas do cliente, como Tamanho, Cor e a Marca.
 
 <h4> Diagrama de Casos de Uso: </h4>
