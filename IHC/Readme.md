@@ -16,7 +16,7 @@ A segunda heurística tem como objetivo os seres humanos encontrarem conforto e 
 <img src = "Imagens/heuristica02bom.png"><br>
 
 No exemplo acima o site fornece respostas claras às perguntas, usa uma linguagem familiar e inclui referências que são fáceis de entender.<br><br>
-Diferentemente, no exemplo abaixo, a página sobre o site do software jurídico da Abacus contém uma linguagem extremamente técnica. A linguagem usada na seção Fatos rápidos, da nuvem privada do Abacus, é desnecessariamente complexa e usa termos que apenas um profissional de TI especializado entenderia e não um advogado ou usuário comum. Além disso, a interface inclui várias siglas, mas não explica seu significado. Não faz sentido presumir que os usuários compreenderão uma abreviatura no seu primeiro contato com o site.
+Diferentemente, no exemplo abaixo, a página sobre o site do software jurídico da Abacus contém uma linguagem extremamente técnica. A linguagem usada na seção Fatos rápidos, da nuvem privada do Abacus, é desnecessariamente complexa e usa termos que apenas um profissional de TI especializado entenderia e não um advogado ou usuário comum. Além disso, a interface inclui várias siglas, mas não explica seu significado. Não faz sentido presumir que os usuários compreenderão uma abreviatura no seu primeiro contato com o site.<br>
 
 <img src = "Imagens/heuristica02ruim.png">
 
