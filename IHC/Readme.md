@@ -6,7 +6,7 @@ A primeira heurística é denominada visibilidade do status do sistema e está a
 
 <img src = "Imagens/heuristica01bom.png">
 
-No exemplo acima alterar a cor e adicionar uma marca de seleção aos botões em uma tela de seleção comunica que o sistema registrou as escolhas do usuário (esquerda). Os indicadores de progresso garantem ao usuário que uma espera mais longa é normal e que o sistema ainda está funcionando (à direita).<br>
+No exemplo acima alterar a cor e adicionar uma marca de seleção aos botões em uma tela de seleção comunica que o sistema registrou as escolhas do usuário (esquerda). Os indicadores de progresso garantem ao usuário que uma espera mais longa é normal e que o sistema ainda está funcionando (à direita).<br><br>
 Em contrapartida às interfaces de usuário de manipulação direta, as interfaces de linha de comando não exibem o estado atual do sistema, nem fornecem feedback imediato. Os programadores sabem como pode ser difícil localizar a origem de um erro em uma interface que carece de feedback imediato, eles frequentemente precisam recorrer a ferramentas como pontos de interrupção e revisão para entender como o estado do sistema muda com cada ação especificada em seu código.
 
 <h3>Heurística 2. Correspondência entre o sistema e o mundo real.</h3>
@@ -15,7 +15,7 @@ A segunda heurística tem como objetivo os seres humanos encontrarem conforto e 
 
 <img src = "Imagens/heuristica02bom.png">
 
-No exemplo acima o site fornece respostas claras às perguntas, usa uma linguagem familiar e inclui referências que são fáceis de entender.<br>
+No exemplo acima o site fornece respostas claras às perguntas, usa uma linguagem familiar e inclui referências que são fáceis de entender.<br><br>
 Diferentemente, no exemplo abaixo, a página sobre o site do software jurídico da Abacus contém uma linguagem extremamente técnica. A linguagem usada na seção Fatos rápidos, da nuvem privada do Abacus, é desnecessariamente complexa e usa termos que apenas um profissional de TI especializado entenderia e não um advogado ou usuário comum. Além disso, a interface inclui várias siglas, mas não explica seu significado. Não faz sentido presumir que os usuários compreenderão uma abreviatura no seu primeiro contato com o site.
 
 <img src = "Imagens/heuristica02ruim.png">
@@ -35,7 +35,7 @@ Não devemos deixar o usuário em dúvida se palavras, situações ou ações di
 
 <img src = "Imagens/heuristica04bom.png">
 
-No exemplo acima eu tenho alguns dos menus dos programas Microsoft. Os programas da Microsoft seguem padrões, sendo que os itens do menu ficam sempre na parte superior, os ícones que realizam a mesma ação são repetidos em todas as interfaces, mantém o tamanho e cor.<br>
+No exemplo acima eu tenho alguns dos menus dos programas Microsoft. Os programas da Microsoft seguem padrões, sendo que os itens do menu ficam sempre na parte superior, os ícones que realizam a mesma ação são repetidos em todas as interfaces, mantém o tamanho e cor.<br><br>
 Um dos problemas que poderiam vir a ocorrer caso não se siga padrões e não se mantenha a consistência seria se um designer desenvolvesse um site e nele utilizasse diferentes elementos para a mesma função em diferentes partes do site, fazendo o usuário ficar perdido.
 
 <h3>Heurística 5. Prevenção de Erros.</h3>
@@ -44,7 +44,7 @@ Um dos problemas que poderiam vir a ocorrer caso não se siga padrões e não se
 
 <img src = "Imagens/heuristica05bom.png">
 
-O sistema de calendário da Southwest para escolher datas de voos utiliza restrições úteis para evitar que os usuários definam acidentalmente um intervalo de tempo sem sentido. Mesmo que os usuários tentem definir a data de retorno antes da data de partida, este widget os força a escolher uma data de partida primeiro. Além disso, ele sutilmente usa cores para fornecer contexto sobre qual data está prestes a ser alterada (neste caso, azul para a partida), o que ajuda os usuários a enxergar qual campo eles estão selecionando (em vez de ter que manter essa informação em sua memória).<br>
+O sistema de calendário da Southwest para escolher datas de voos utiliza restrições úteis para evitar que os usuários definam acidentalmente um intervalo de tempo sem sentido. Mesmo que os usuários tentem definir a data de retorno antes da data de partida, este widget os força a escolher uma data de partida primeiro. Além disso, ele sutilmente usa cores para fornecer contexto sobre qual data está prestes a ser alterada (neste caso, azul para a partida), o que ajuda os usuários a enxergar qual campo eles estão selecionando (em vez de ter que manter essa informação em sua memória).<br><br>
 Não fornecer um feedback claro quando o usuário faz algo errado é um erro exorbitante, o que causará frustação no usuário e confusão.
 
 <h3>Heurística 6. Reconhecimento ao invés de recordação.</h3>
